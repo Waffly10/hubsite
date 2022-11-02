@@ -1,0 +1,72 @@
+body {
+background;
+}
+h2 {
+font-family:"Papyrus";
+font: 24pt;
+color: #E7B5AC;
+}
+hr {
+height: 2px;
+background-color: #BCB4D9;
+border:none;
+}
+p {
+	font-family:"Times New Roman";
+	font-size: 12pt;
+	text-align:left;
+	color: #8E829F;
+}
+ul {
+	font-family:"Times New Roman";
+	font-size: 12pt;
+	text-align:left;
+	color: #8E829F;
+}
+
+footer {
+	font-family:"Times New Roman";
+	font-size: 12pt;
+	text-align:left;
+	color: #6A6277;
+}
+
+body {
+background: #;
+}
+h2 {
+font-family:"Papyrus";
+font: 24pt;
+color: #E7B5AC;
+}
+
+h3 {
+font-family:"Monaco";
+font: 24pt;
+color: #E7B5AC;
+}
+
+hr {
+height: 2px;
+background-color: #BCB4D9;
+border:none;
+}
+p {
+	font-family:"Times New Roman";
+	font-size: 12pt;
+	text-align:left;
+	color: #8E829F;
+	padding: 10 px;
+}
+footer {
+	font-family:"Times New Roman";
+	font-size: 12pt;
+	text-align:left;
+	color: #6A6277;
+}
+
+ol {
+	font-family:"Times New Roman";
+	font-size: 12pt;
+	text-align:left;
+	color: #8E829F;

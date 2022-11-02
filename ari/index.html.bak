@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>AnimeFrlog</title>
+    <link rel="icon" href="Images/froggy.jpg">
+    <link href="index.css" type="text/css" rel="stylesheet">
+</head>
+  <body>
+  <header>
+  <a href="index.html">
+  <img src="Images/frog.jpg" alt="AnimeFrolog" title="AnimeFrolog - An Anime Guide"></a>
+  </header>
+  <hr>
+  <nav>
+  <table cellspacing="10" cellpadding="10">
+  <tr>
+  <td><a href="index.html">Home</a></td>
+  <td><a href="AnimeManga News.html">Anime/Manga News</a></td>
+  <td><a href="Views.html">Views</a></td>
+  <td><a href="Recommended.html">Recommended</a></td>
+  <td><a href="Media.html">Media</a></td>
+  <td><a href="About Me.html">About Us</a></td>
+  </tr>
+  </table>
+  </nav>
+  <hr>
+  <h2>Welcome to the official AnimeFrolog blog!</h2>
+  <img src="Images/MainBanner.jpg" width="100%" height="50%" title="Studio Ghibli - Animation Company">
+  
+  <p><strong>Anime History/Background:</strong>The first manga was <strong>Astro Boy</strong> by Osamu Tezuka in 1952. Shortly after, it came to American television in 1963. Astro Boy became known as the first popular anime in America.
+ As time progressed, new manga and anime blossomed. Some of the popular ones include <em>Gundam, Doraemon, Dragon Ball, Sailor Moon, and Naruto</em>. The five types of anime are
+ shonen, shojo, seinen, josei, and kodomomuke. These labels are focused on a specific target audience. Note that just because there are specific types, doesn't mean it is restricted.</p>
+ <body>
+ <a href="https://en.wikipedia.org/wiki/Astro_Boy" target="_blank" rel="noopener noreferrer"><img src="images/astroboy.gif" alt="Astro Boy" style="width:35%;height:35%;"></a> <p><em>&#8592; Click on image!~</em></p>
+ 
+ </body>
+<ul>
+  <li><strong>Shonen:</strong>Target towards young teen boys (12-18).   <em><strong>Ex:</strong> FullMetal Alchemist, Naruto, Demon Slayer, Hunter X Hunter</em></li>
+  <li> <strong>Shojo:</strong> Target towards teen girls (12-18).   <em><strong>Ex:</strong> Orange, Fruits Basket, Ouran Koukou Host Club, Nana</em></li>
+  <li><strong>Seinen:</strong> Generally targeted towards men ages 18-30.   <em><strong>Ex:</strong> Tokyo Ghoul, Erased, Bungo Stray Dogs, Akira</em></li>
+  <li><strong>Josei:</strong> Catered towards adult women.   <em><strong>Ex:</strong> Yuri!!! on Ice, Shouwa Genroku Rakugo Shinjuu, Bunny Drop</em></li>
+  <li><strong>Kodomomuke:</strong> Aimed for young children (3-10).   <em><strong>Ex:</strong> Pokemon, Astro boy, Doraemon</em></li>
+</ul>
+<hr>
+  <footer>
+  All material Copyright © 2022 AnimeFrolog. All rights reserved.
+  </footer>
+</body>
+</html>

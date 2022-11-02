@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Media</title>
+  <link rel="icon" href="Images/froggy.jpg">
+  <link href="index.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+  <header>
+  <a href="index.html">
+  <img src="Images/frog.jpg" alt="AnimeFrolog" title="AnimeFrolog - An Anime Guide">
+  </a>
+ </header>
+ <hr>
+ <nav>
+ <table cellspacing="10" cellpadding="10">
+ <tr>
+ <td><a href="index.html">Home</a></td>
+ <td><a href="AnimeManga News.html">Anime/Manga News</a></td>
+ <td><a href="Views.html">Views</a></td>
+ <td><a href="Recommended.html">Recommended</a></td>
+ <td><a href="Media.html">Media</a></td>
+ <td><a href="About Me.html">About Me</a></td>
+  </tr>
+  </table>
+  </nav>
+  <hr>
+  <h2>Media/Resources!</h2>
+  
+
+  <img src="Images/HowlsMovingCastle.jpg" width="65%" height="50%" title="Howl's Moving Castle">
+  
+  <p>
+  <h3><strong>Get Caught up! Find out what anime you like! Check out reviews!</strong></h3>
+  </p>
+  
+  <ol>
+  <li><a href="https://www.viz.com/watch">Viz</li></a>
+  <li><a href="https://myanimelist.net/">My Anime List</li></a>
+  <li><a href="https://www.animenewsnetwork.com/">Anime News Network</li></a>
+  <li><a href="https://drunkenanimeblog.com/">Drunken Anime Blog</li></a>
+  </ol>
+  
+  <p>
+   <h3><strong>Where to watch - Legally! :D </strong></h3>
+   </p> 
+   
+  <ol>
+  <li><a href="https://www.funimation.com/">Funimation</li></a>
+  <li><a href="https://www.crunchyroll.com/">Crunchyroll</li></a>
+  <li><a href="https://www.netflix.com/">Netflix</li></a>
+  <li><a href="https://www.hbomax.com/">HBO Max</li></a>
+  <li><a href="https://signup.hulu.com/plans">Hulu</li></a>
+  </ol>
+  
+  <p>
+   <h3><strong>Recommendation Resources </strong></h3>
+   </p> 
+   <ol>
+   <li><a href="https://www.youtube.com/channel/UCyVYnLA2wuJhRldOqKns3cQ">Cinemonika</li></a>
+   <li><a href="https://www.youtube.com/user/watchmojo/videos?app=desktop">WatchMojo</li></a>
+   <li><a href="https://www.youtube.com/c/animezone">Gigguk</li></a>
+   </ol>
+  
+   
+
+  </ul>
+  <hr>
+  <footer>
+  All material Copyright © 2022 AnimeFrolog. All rights reserved.
+  </footer>
+</body>
+</html>

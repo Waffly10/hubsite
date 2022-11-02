@@ -1,0 +1,31 @@
+<DOCTYPE! html>
+<!-- THIS WEBSITE WILL BE ASS-->
+<html>
+
+<head>
+	<title>Roll a Die</title>
+	<link href=".resources/css/index.css" type="text/css" rel="styleshee">
+</head>
+
+<body>
+	<h1>
+		<p>Roll a Die</p>
+	</h1>
+	<img src="./resources/diceimage.jpg" alt="Image of dice">
+	<div>
+		<h2>Hello! This website will be used to give a random number between 1-6. Enjoy!</h2>
+		<h4>How it works</h4>
+		<ol>
+			<li>You will click on the roll a di button</li>
+			<li>You will get a random number</li>
+		</ol>
+		<h2><a href='/form.html'>Get started</a></h2>
+	</div>
+	<form>
+	
+	</form>
+	
+	
+
+</body>
+</html>

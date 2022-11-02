@@ -1,0 +1,57 @@
+.title {
+	color: #E5D2B3;
+	font-family: Raleway
+}
+
+header{
+	position: fixed;
+}
+
+body {
+
+}
+
+h1 {
+	color: #E5D2B3;
+	
+}
+
+h2 {
+	color: #E5D2B3;
+}
+
+h3{
+	color: #E5D2B3;
+	font-size: 25px;
+}
+
+p {
+	text-align: center;
+	color: #E5D2B3;
+	font-size: 20px;
+}
+
+a {
+	color: #E5D2B3;
+}
+
+.Randoyay{
+	float: right;
+}
+
+.star1{
+	float: right;
+}
+
+.halfstar{
+	
+}
+
+.art{
+	
+}
+
+ol, ul {
+		color: #E5D2B3;
+		text-align: center;
+}

@@ -1,0 +1,23 @@
+<DOCTYPE! html>
+<html>
+
+<head>
+	<title>Roll a Die</title>
+	<link href="./resources/css/index.css" type="text/css" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300&family=Space+Mono&display=swap" rel="stylesheet">
+</head>
+
+<body>
+<center>
+	<h1>Roll a Die</h1>
+	<p>Thank you for using my service. Feel free to Zelle me money. Button is below</p>
+	<img src='./resources/dice.png'>
+	<form action='./number.html'>
+		<input type='submit' value='Generate a Number'>
+	</form>
+</center>
+</body>
+
+</html>

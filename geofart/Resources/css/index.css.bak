@@ -1,0 +1,20 @@
+* {
+	font-family: Rubik;
+}
+
+.no {
+	font-size: 100px;
+}
+
+.intro {
+	text-align: center;
+}
+
+.list {
+	text-align: center;
+	list-style-position: inside;
+}
+
+ {
+	background-color: #A0FC8B;
+}
