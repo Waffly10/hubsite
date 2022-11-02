@@ -1,0 +1,44 @@
+*{margin:0;padding:0;}
+body{font-family: 'Slabo 27px', serif;background:#000;}
+.bg{position:relative;z-index:1;}
+.bg img{
+  display:block;
+  width:100%; height:auto;
+  position: absolute;
+}
+.bg h1{
+  position:relative;
+  top:33%;left:0;
+  width:100%; height:auto;
+  font-size:100px;
+  text-align:center;
+}
+.cont{
+  position:relative;
+  width:80%;
+  height: auto;
+  margin-left:auto;
+  margin-right:auto;
+  z-index:1;
+  background:rgba(0,0,0,0.9);
+  font-size:27px;
+  background-color: rgba(0,0,0,.75);
+  padding:5%;
+}
+.cont *{
+  max-width:1300px;
+  margin:auto;
+}
+.cont h3{
+	color: white;
+}
+.cont p{
+	color:white;
+}
+.geo {
+	width: 170px;
+	height: 170px;
+}
+.lou {
+	float: right;
+}

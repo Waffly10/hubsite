@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+
+<link href="./resources/css/index.css" type="text/css" rel="stylesheet">
+<link rel="icon" href="resources/hub.ico">
+<title>PHub</title>
+<style>
+    select {
+		font-size: 25px;
+		height: 30px;
+        width: 150px;
+        margin: 10px;
+    }
+    select:focus {
+        min-width: 150px;
+        width: auto;
+    }
+</style>
+
+	<script>
+		function myFunction() {
+		  document.getElementById("myDropdown").classList.toggle("show");
+		}
+
+
+		window.onclick = function(event) {
+		  if (!event.target.matches('.dropbtn')) {
+			var dropdowns = document.getElementsByClassName("dropdown-content");
+			var i;
+			for (i = 0; i < dropdowns.length; i++) {
+			  var openDropdown = dropdowns[i];
+			  if (openDropdown.classList.contains('show')) {
+				openDropdown.classList.remove('show');
+			  }
+			}
+		  }
+		}
+	</script>
+
+</head>
+<body>
+	
+
+
+
+
+
+<div id="wrap">
+  <div class="bg">
+    <img class="layer2" src="resources/background.jpg" alt="Meow" width="200" height="200" id="bg">
+	
+		<div class="dropdown">
+		<button onclick="myFunction()" class="dropbtn"> 
+		
+		Menu
+		
+		</button>
+		<div id="myDropdown" class="dropdown-content">
+			<a href="use.html" target="">How To Use</a>
+			<a href="https://stuffonmycat.com/" target="_blank">Cat</a>
+			<a href="https://www.youtube.com/" target="_blank">Youtube</a>
+		</div>
+	</div>
+	
+	<h1 id="anchor-name" class="layer1" style="color: #B38554;"><strong>People Hub</strong></h1>
+  </div>
+  
+  
+  
+  <div class="cont">
+	<div class="lou">
+	<ul>
+		<li style="color: white;"><strong>Geo(F)art Corral</strong> </li>
+		<a href="geofart/index.html" target="_blank">
+		<img src="resources/meow1.gif" class="geo" alt="meow">
+		</a>
+					<ol>
+			<li style="color: white;"><p>I smells like <strong>beef</strong>.</p></li>
+			<li style="color: white;"><p>uwu <strong>nya~</strong></p></li>
+			</ol>
+		</div>
+	
+		<div id="nite">
+		<li style="color: white;"><strong>Louella Mortel</strong> </li>
+		<a href="lou/index.html" target="_blank">
+		<img src="resources/meow2.gif" class="geo" alt="meow">
+		</a>
+		<ol>
+			<li style="color: white;"><p>I <strong>draw</strong>.</p></li>
+			<li style="color: white;"><p>peepeepoopoo.</p></li>
+			</ol>
+		</div>
+
+		<br>
+
+		<div class="lou" >
+		<li style="color: white;"><strong>Arianna Tungol</strong> </li>
+		<a href="ari/index.html" target="_blank">
+		<img src="resources/meow3.gif" class="geo" alt="meow">
+		</a>
+		<ol>
+			<li style="color: white;"><p>I like frogs.</p></li>
+			<li style="color: white;"><p>No. -Louella</p></li>
+			</ol>
+		</div>
+	
+	<br>
+	
+		<div id="nite">
+    <li style="color: white;"><strong>Jonas Quiballo</strong> </li>
+		<a href="https://youtube.com" target="_blank">
+		<a href="#anchor-name" class="scroll" style="color: white; font-size:50px;"><embed src="resources/meow4.gif" class="geo" alt="meow"></a>
+		</a>
+		<ol>
+			<li style="color: white;">I like <strong>Chicken</strong>.</li>
+			<li style="color: white;">MEOW!</li>
+			</ol>
+		</div>
+  </div>
+  </ul>
+</div>
+
+<img style="width: 40%; height: auto; " src="resources/teeto.png"/>
+<a id="anchor-name">Click me to go somewhere ;) </a>
+
+<a href="#anchor-name" class="scroll" style="color: white; font-size:50px;">Click me to go somewhere ;) </a>
+
+</body>
+</html>
